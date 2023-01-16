@@ -20,13 +20,18 @@
 
 ## Get to know me
 
-**I am a front-end developer and student with experience working with front-end frameworks and technologies. People think of me as someone who can learn and adapt to new knowledge and skills quickly. And as a person who strongly believes in practicality, I want to turn ideas into reality and do it well.**
+### Hi, I'm Nguyễn Huy Hoàng
+
+**I am a back-end developer and last year university student with experience working with back-end and data frameworks and technologies.**
+
+
+**People think of me as someone who can learn and adapt to new knowledge and skills quickly. And as a developer who strongly believes in practicality, I want to turn ideas into reality and do it well. My goal is to work on projects that can make a difference in the world.**
 
 - 🔭 I’m currently working on fullstack development
 - 🌱 I’m currently learning Java and Python
 - 👯 I’m looking to collaborate on fullstack development
 - 🤔 I’m looking for help with system design and architecture
-- ⚡ Fun fact: My productivity depends a little on my music 😄
+- ⚡ Fun fact: My productivity depends a little on music 😄
 
 <p>
 <h2>Skills</h2>
@@ -56,10 +61,10 @@
 </span>
 </p>
 
-### My GitHub stats
+<!-- ### My GitHub stats
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=prometheusalpha&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-### Codewars Badge
+### Codewars Badge -->
 
 ![Codewar](https://www.codewars.com/users/Nguy%E1%BB%85n%20Huy%20Ho%C3%A0ng_HE160647/badges/micro)
 

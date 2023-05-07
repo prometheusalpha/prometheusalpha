@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I am Nguyễn Huy Hoàng
+  Nguyễn Huy Hoàng, a software engineer
 </h1>
 
 <p align="center">
@@ -34,6 +34,11 @@
 - ⚡ Fun fact: My productivity depends a little on music 😄
 
 <p>
+  
+  
+## Works
+- [My Blog](https://prometheusalpha.hashnode.dev/)
+  
 <h2>Skills</h2>
 
 ### Languages and technology

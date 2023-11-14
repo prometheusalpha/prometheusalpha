@@ -28,7 +28,7 @@
 **People think of me as someone who can learn and adapt to new knowledge and skills quickly. And as a developer who strongly believes in practicality, I want to turn ideas into reality and do it well. My goal is to work on projects that can make a difference in the world.**
 
 - 🔭 I’m currently working on fullstack development
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java and Golang
 - 👯 I’m looking to collaborate on fullstack development
 - 🤔 I’m looking for help with system design and architecture
 - ⚡ Fun fact: My productivity depends a little on music 😄
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt=""/>
 </span>
 <span>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt=""/>
+  <img src="https://img.shields.io/badge/Go-FFD43B?style=for-the-badge&logo=go&logoColor=blue" alt=""/>
 </span>
 </p>
 

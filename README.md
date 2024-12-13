@@ -22,8 +22,7 @@
 
 ### Hi, I'm Nguyễn Huy Hoàng
 
-**I am a back-end developer and last year university student with experience working with back-end and data frameworks and technologies.**
-
+**I am a back-end developer with experience working with back-end frameworks and technologies.**
 
 **People think of me as someone who can learn and adapt to new knowledge and skills quickly. And as a developer who strongly believes in practicality, I want to turn ideas into reality and do it well. My goal is to work on projects that can make a difference in the world.**
 
